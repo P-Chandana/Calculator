@@ -1,4 +1,4 @@
-# Python Calculator
+# Python Calculator :pager:
 
 Calculator built using graphical UI Tkinter.
 ### Normal mode:
