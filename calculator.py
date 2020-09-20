@@ -46,6 +46,7 @@ def click_btn_function(event):
 window = Tk()
 window.title('Calculator')
 window.geometry('510x550')
+window.config(bg="salmon1")
 # picture label
 pic = PhotoImage(file='images/pc.png')
 headingLabel = Label(window, image=pic,bg="peach puff",relief="solid")
