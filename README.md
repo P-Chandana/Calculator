@@ -2,7 +2,7 @@
 
 Calculator built using graphical UI Tkinter.
 ### Normal mode:
-![](nor.png)
+![](nor_new.png)
 
 ### Scientific mode:
-![](sci.png)
+![](sci_new.png)
